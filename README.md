@@ -5,9 +5,13 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
 
 1. Using SQLite and SQLAlchemy, calculate the statistics on the precipitation and temperature from 01/01/2016 to 12/31/2017 on Oahu, Hawaii. 
 
+  - Find all the stations in order to find the most active station for best results of statistics.
+![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/all_stations.png)
+
+  - Statistics on preciptation.
 ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/Precipitation_stats.png)
 
-![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/all_stations.png)
+
 
 2. Using Pandas, create a dataframe of weather analysis to organize the results, making it easier to read.  
 
