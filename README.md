@@ -35,9 +35,14 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
  
   - Temperature Graph using 5 bins - proved using 12 bins provides a more descriptive graph.
   
- ![alt text](
+ ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/temp_obs_5_bins.png)
+ 
 
 4. Create an app using Flask to display the output of the weather statistics to webpages for easy reviewing by W.Avy and the Board of Directors.
+
+  - Welcome Page Output
+ 
+ ![alt text](
 
 
 
