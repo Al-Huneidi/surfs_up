@@ -15,7 +15,7 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
 ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/Precipitation_stats.png)
 
 
-  - Most Active Station Temperature Minimu, Maximum, and Average
+  - Temperature Minimum, Maximum, and Average at Most Active Station
  
  ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/most_active_station_temp_min_max_avg.png)
  
@@ -23,7 +23,15 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
 
 2. Using Pandas, create a dataframe of weather analysis to organize the results, making it easier to read.  
 
-3. Using Matplotlib style fivethirtyeight, visualize the weather analysis result s.  
+3. Using Matplotlib style fivethirtyeight, visualize the weather analysis results.
+
+  - Preciptation Graph
+ 
+ ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/Precipitation_graph.png)
+ 
+  - Temperature Graph using 12 bins
+ 
+ ![alt text](
 
 4. Create an app using Flask to display the output of the weather statistics to webpages for easy reviewing by W.Avy and the Board of Directors.
 
