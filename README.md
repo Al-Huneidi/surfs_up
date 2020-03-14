@@ -15,6 +15,11 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
 ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/Precipitation_stats.png)
 
 
+  - Most Active Station Temperature Minimu, Maximum, and Average
+ 
+ ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/most_active_station_temp_min_max_avg.png)
+ 
+ 
 
 2. Using Pandas, create a dataframe of weather analysis to organize the results, making it easier to read.  
 
