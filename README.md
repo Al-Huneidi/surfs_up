@@ -50,7 +50,11 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
  
   - Stations Page
   
- ![alt text]
+ ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/stations_page.png)
+ 
+  - Monthly Temperature Page
+ 
+ ![alt text](
 
 
 
