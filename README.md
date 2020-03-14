@@ -58,7 +58,7 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
  
   - Minimum, Maximum, and Average Temperature for month of June 2017
   
- ![alt text](
+ ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/min_avg_max_for_date.png)
 
 
 
