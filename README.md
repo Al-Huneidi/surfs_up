@@ -42,6 +42,10 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
 
   - Welcome Page Output
  
+ ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/Welcome.png)
+ 
+  - Precipitation Page Output snippet
+ 
  ![alt text](
 
 
