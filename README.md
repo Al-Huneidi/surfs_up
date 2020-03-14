@@ -61,7 +61,27 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
  ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Screenshots/min_avg_max_for_date.png)
 
 
+# Challenge
 
+## Project Overview
+
+1. Determine key statistical data about the month of June.
+
+
+
+2. Determine key statistical data about the month of December.
+
+
+
+3. Compare the findings between the month of June and December.
+
+
+
+4. Make 2 or 3 recommendations for further analysis.
+
+
+
+5. Findings written in markdown in the Jupyter Notebook.
 
 
 Resource:  existing database of weather on Oahu, hawaii.sqlite
