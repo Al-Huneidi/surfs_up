@@ -87,7 +87,7 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
   
   Temperature Statistics
   
-  ![alt text](
+  ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Challenge_screenshots/December_Temperature_Stats.png)
 
 ## Observations and recommendations written in markdown in the Jupyter Notebook.
 
