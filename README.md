@@ -74,7 +74,7 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
   
   Temperature Statistics
   
-  ![alt text](
+  ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Challenge_screenshots/June_Temperature_Stats.png)
 
 
 
