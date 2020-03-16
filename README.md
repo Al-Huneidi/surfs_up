@@ -67,21 +67,34 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
 
 1. Determine key statistical data about the month of June.
 
+  Precipitation Statistics
+  
+  ![alt text](
+  
+  
+  Temperature Statistics
+  
+  ![alt text](
+
 
 
 2. Determine key statistical data about the month of December.
 
+  Precipitation Statistics
+  
+  ![alt text](
+  
+  
+  Temperature Statistics
+  
+  ![alt text](
+
+## Observations and recommendations written in markdown in the Jupyter Notebook.
+
+1. Recommendations for further analysis.
 
 
-3. Compare the findings between the month of June and December.
-
-
-
-4. Make 2 or 3 recommendations for further analysis.
-
-
-
-5. Findings written in markdown in the Jupyter Notebook.
+2. Compare the findings between the month of June and December.
 
 
 Resource:  existing database of weather on Oahu, hawaii.sqlite
