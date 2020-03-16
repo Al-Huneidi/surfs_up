@@ -69,7 +69,7 @@ Analyze weather on the island Oahu, Hawaii for a prospective start-up, a surf an
 
   Precipitation Statistics
   
-  ![alt text](
+  ![alt text](https://github.com/Al-Huneidi/surfs_up/blob/master/Challenge_screenshots/June_Precipitation_Stats.png)
   
   
   Temperature Statistics
